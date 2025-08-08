@@ -1,0 +1,48 @@
+
+[
+    {
+        "id": 1,
+        "title": "Lalka",
+        "author": "Bolesław Prus",
+        "year": 1890,
+        "genre": "Powieść",
+        "description": "",
+        "pages": 672
+    },
+    {
+        "id": 2,
+        "title": "Wiedźmin: Ostatnie życzenie",
+        "author": "Andrzej Sapkowski",
+        "year": 1993,
+        "genre": "Fantastyka",
+        "description": "",
+        "pages": 288
+    },
+    {
+        "id": 3,
+        "title": "Zbrodnia i kara",
+        "author": "Fiodor Dostojewski",
+        "year": 1866,
+        "genre": "Klasyka",
+        "description": "",
+        "pages": 576
+    },
+    {
+        "id": 4,
+        "title": "Mały Książę",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1943,
+        "genre": "Baśń",
+        "description": "",
+        "pages": 96
+    },
+    {
+        "id": 5,
+        "title": "Rok 1984",
+        "author": "George Orwell",
+        "year": 1949,
+        "genre": "Fantastyka",
+        "description": "",
+        "pages": 328
+    }
+]
